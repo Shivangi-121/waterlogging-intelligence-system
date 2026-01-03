@@ -58,7 +58,7 @@ Data Sources: IMD rainfall data, Delhi Open Government Data
 ---
 
 ## 6. Demo / Visual Output
-![UI Dashboard](UI Dashboard.png)
+![UI Dashboard](ui-dashboard.png)
 
 ---
 
