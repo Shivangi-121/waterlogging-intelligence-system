@@ -60,7 +60,7 @@ Data Sources: IMD rainfall data, Delhi Open Government Data
 ## 6. Demo / Visual Output
 *Example Waterlogging Risk Map for Delhi Wards:*
 
-![Sample Map](sample_map.png)
+![UI Dashboard](UI Dashboard.png)
 
 ---
 
